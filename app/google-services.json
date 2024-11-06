@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "621645984373",
+    "firebase_url": "https://livu-live-video-call-default-rtdb.firebaseio.com",
+    "project_id": "livu-live-video-call",
+    "storage_bucket": "livu-live-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621645984373:android:a35a5e6397687b28073e3c",
+        "android_client_info": {
+          "package_name": "com.randomcall.videocallonly.livevideocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621645984373-5gk9ksiebv4ndof7r922cqdst60m96pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HXuT8ldSYziN0sjOI5xc3cF52eLsLNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621645984373-5gk9ksiebv4ndof7r922cqdst60m96pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621645984373:android:ac4e87a7a5887310073e3c",
+        "android_client_info": {
+          "package_name": "shopping.api.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621645984373-5gk9ksiebv4ndof7r922cqdst60m96pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HXuT8ldSYziN0sjOI5xc3cF52eLsLNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621645984373-5gk9ksiebv4ndof7r922cqdst60m96pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
